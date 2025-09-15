@@ -40,16 +40,6 @@ As redes neurais mostraram-se eficazes como ferramenta de apoio à decisão para
 
 ---
 
-## 📂 Estrutura do Repositório
-├── data/ # Bases de simulação e dados aumentados
-├── notebooks/ # Notebooks de análise e treinamento
-├── models/ # Modelos treinados da rede neural
-├── figures/ # Gráficos e visualizações
-└── src/ # Scripts principais em Python
-
-
----
-
 ## 🔗 Materiais Suplementares
 Este projeto faz parte do artigo acadêmico:  
 **“Otimização de consumo energético por simulação de manufatura de injeção plástica utilizando Deep Learning”**  
